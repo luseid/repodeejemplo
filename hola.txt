@@ -1,2 +1,1 @@
-Algun texto
-Hola
+Mi texto
